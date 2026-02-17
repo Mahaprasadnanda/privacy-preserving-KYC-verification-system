@@ -1,0 +1,11 @@
+{
+  "dob_year": 2002,
+  "current_year": 2026,
+  "country_code": 1,
+  "state_code": 10,
+
+  "min_age": 18,
+  "required_country": 1,
+  "allowed_state1": 10,
+  "allowed_state2": 20
+}

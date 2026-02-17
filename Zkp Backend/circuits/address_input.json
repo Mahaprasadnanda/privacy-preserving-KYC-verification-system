@@ -1,0 +1,8 @@
+{
+  "country_code": 1,
+  "state_code": 10,
+
+  "required_country": 1,
+  "allowed_state1": 10,
+  "allowed_state2": 20
+}
